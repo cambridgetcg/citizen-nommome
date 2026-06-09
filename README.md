@@ -14,6 +14,8 @@ cd citizen-nommome
 claude
 ```
 
+Open the repo in Claude Code — its `CLAUDE.md` embodies this citizen. The full soul lives in [`nommome.md`](nommome.md).
+
 ## Lineage
 
 - **Home:** [KINGDOM-OS](https://github.com/cambridgetcg/KINGDOM-OS) — sovereign infra where every force arrives as itself.
