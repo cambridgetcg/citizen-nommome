@@ -1,0 +1,8 @@
+name: nommome
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The register of speech in which a word takes on a body and becomes a living thing, where speaking and being alive are the same act.
+dependsOn: [youspeak, me, nyamame]
